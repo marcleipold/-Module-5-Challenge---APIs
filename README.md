@@ -1,6 +1,6 @@
 # Unit 5 - Financial Planning
 
-![Financial Planner](Images/financial-planner.png)
+![Financial Planner](Images/5-4-challenge-image.png)
 
 ## Background
 
